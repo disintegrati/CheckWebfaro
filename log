@@ -1,0 +1,16 @@
+Error { Error: getaddrinfo EAI_AGAIN battito.cuoredinapoli.net battito.cuoredinapoli.net:80
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'battito.cuoredinapoli.net',
+  host: 'battito.cuoredinapoli.net',
+  port: 80 }
+Error { Error: getaddrinfo EAI_AGAIN battito.cuoredinapoli.net battito.cuoredinapoli.net:80
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'battito.cuoredinapoli.net',
+  host: 'battito.cuoredinapoli.net',
+  port: 80 }
